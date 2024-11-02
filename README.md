@@ -3,7 +3,7 @@
 Ce projet vise à prédire le succès des chansons du groupe de K-pop GOT7 en utilisant des techniques d'apprentissage supervisé, telles que la descente de gradient, la régression logistique, le perceptron, PCA/SVM, et l'analyse de la convergence. Ce projet utilise des données fictives, mais repose sur des caractéristiques pertinentes pour prédire la popularité d'une chanson en fonction de diverses métriques. (Mini Projet IAS pour assimiler les connaissances acquises lors du module)
 
 ## Table des matières
-- [Description du Projet](#Description du Projet)
+- [Description du Projet](#Description_du_Projet)
 - Données
 - Modèles Utilisés
 - Méthodologie
