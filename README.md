@@ -19,13 +19,13 @@ Ce projet analyse les chansons de GOT7 en fonction de caractéristiques spécifi
 ## Données
 Les données comprennent les caractéristiques suivantes pour chaque chanson :
 
-**Nom de la chanson** : Titre de la chanson.
-**Durée** : Durée de la chanson en secondes.
-**BPM** : Battements par minute (tempo de la chanson).
-**Vues YouTube** : Nombre de vues sur YouTube en millions.
-**Mentions RS** : Nombre de mentions sur les réseaux sociaux en milliers.
-**Title Track** : Indicateur binaire (1 si la chanson est le "Title Track" de l'album).
-**Succès** : Indicateur de succès (1 si la chanson est un succès, 0 sinon).
+- **Nom de la chanson** : Titre de la chanson.
+- **Durée** : Durée de la chanson en secondes.
+- **BPM** : Battements par minute (tempo de la chanson).
+- **Vues YouTube** : Nombre de vues sur YouTube en millions.
+- **Mentions RS** : Nombre de mentions sur les réseaux sociaux en milliers.
+- **Title Track** : Indicateur binaire (1 si la chanson est le "Title Track" de l'album).
+- **Succès** : Indicateur de succès (1 si la chanson est un succès, 0 sinon).
 
 ## Modèles Utilisés
 1. **Descente de Gradient** : Pour optimiser les poids d'une régression logistique.
