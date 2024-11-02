@@ -4,14 +4,14 @@ Ce projet vise à prédire le succès des chansons du groupe de K-pop GOT7 en ut
 
 ## Table des matières
 - [Description du Projet](#Description_du_Projet)
-- Données
-- Modèles Utilisés
-- Méthodologie
-- Installation
-- Utilisation
-- Résultats
-- Améliorations Possibles
-- Technologies Utilisées
+- [Données](#Données)
+- [Modèles Utilisés](#Modèle_Utilisés)
+- [Méthodologie](#Méthodologie)
+- [Installation](#Installation)
+- [Utilisation](#Utilisation)
+- [Résultats](#Résultats)
+- [Améliorations Possibles](#Améliorations_Possible)
+- [Technologies Utilisées](#Technologies_Utilisées)
 
 ## Description du Projet
 Ce projet analyse les chansons de GOT7 en fonction de caractéristiques spécifiques telles que le nombre de vues, les mentions sur les réseaux sociaux, le BPM, la durée, et si la chanson est un "Title Track". L'objectif est de construire un modèle capable de prédire si une chanson sera un succès (succès = 1) ou non (succès = 0).
@@ -70,4 +70,8 @@ Optimisation des hyperparamètres : Tester différents taux d'apprentissage et n
 - *NumPy & Pandas* : Manipulation des données.
 - *Scikit-learn* : Modèles d'apprentissage automatique.
 - *Matplotlib* : Visualisation des résultats.
+
+## Licence :
+**Auteur** : Makoundou Chloé (Chlooow)
+
 
